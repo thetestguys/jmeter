@@ -1,8 +1,6 @@
 # JMeter + Plugin manager
 
-Run JMeter tests from Docker container. Note that default user.properties file (from 10-0) is already present in image. If there are changes to user.properties file, then the image would need to be rebuild and tagged with appropriate release version.
-
-The Dockerfile is inspired by [this repo](https://github.com/justb4/docker-jmeter).
+Run JMeter tests from Docker container. The Dockerfile is inspired by [this repo](https://github.com/justb4/docker-jmeter).
 
 ## How to use
 ``
